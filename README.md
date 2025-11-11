@@ -177,7 +177,4 @@ Estoque a adicionar: 5
 ## 👨🏻‍💻 Autor
 
 **Douglas Silva**
-Desenvolvedor e pesquisador em Bioinformática
-📧 Contato: [GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/)
-
-Projeto desenvolvido como parte da disciplina **Linguagem de Programação I**, com foco em **STL e boas práticas em C++**.
+Projeto desenvolvido como parte da disciplina **Linguagem de Programação I**, com foco em **STL em C++**.
