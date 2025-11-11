@@ -135,45 +135,6 @@ Estoque a adicionar: 5
 
 ---
 
-## 🚀 Futuras Implementações (versão corporativa)
-
-### 💾 Persistência de Dados
-
-* Armazenamento em arquivo `.csv` ou `.json`.
-* Integração com banco de dados (SQLite, MySQL).
-* Sistema de backup automático.
-
-### 🧑‍💼 Usuários e Permissões
-
-* Sistema de login com níveis de acesso (Administrador, Vendedor, Gerente).
-* Log de auditoria com rastreamento de ações.
-
-### 🌐 Interface Gráfica e Web
-
-* Interface GUI com **Qt** ou **ImGui**.
-* API REST com **C++ REST SDK** ou backend em Flask/Python.
-* Dashboard web com gráficos em tempo real.
-
-### 📈 Relatórios e Análises
-
-* Ranking de produtos mais vendidos.
-* Alertas automáticos de baixo estoque.
-* Exportação de relatórios para PDF/Excel.
-
-### 🧩 Modularização e Testes
-
-* Separar módulos: Inventário / Vendas / Relatórios / UI.
-* Implementar **testes unitários (Google Test)**.
-* Gerar documentação automática com **Doxygen**.
-
-### 🔐 Segurança e Resiliência
-
-* Validação rigorosa de entradas do usuário.
-* Criptografia de dados sensíveis.
-* Logs persistentes e tratamento avançado de exceções.
-
----
-
 ## 👨🏻‍💻 Autor
 
 **Douglas Silva**
